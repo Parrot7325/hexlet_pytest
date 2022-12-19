@@ -2,6 +2,7 @@
 
 
 def test_stack():
+    """Tests adding"""
     stack = []
     stack.append('one')
     stack.append('two')
@@ -10,6 +11,7 @@ def test_stack():
 
 
 def test_stack1():
+    """Tests extraction"""
     stack = []
     stack.append('one')
     stack.append('two')
@@ -17,6 +19,7 @@ def test_stack1():
 
 
 def test_stack2():
+    """Tests sequence of extraction"""
     stack = []
     stack.append('one')
     stack.append('two')
