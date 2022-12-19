@@ -10,4 +10,3 @@ def test_reverse():
 def test_reverse_for_empty_string():
     """Check for empty string"""
     assert reverse('') == ''
-
