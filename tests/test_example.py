@@ -1,7 +1,5 @@
-from hexlet_pytest.example import reverse
-
-
 """Tests function for reversing string"""
+from tests.example import reverse
 
 
 def test_reverse():
