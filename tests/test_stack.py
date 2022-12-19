@@ -1,3 +1,6 @@
+"""Tests working stack in lists"""
+
+
 def test_stack():
     stack = []
     stack.append('one')
