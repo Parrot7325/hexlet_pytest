@@ -1,5 +1,5 @@
 """Tests function for reversing string"""
-from tests.example import reverse
+from example import reverse
 
 
 def test_reverse():
